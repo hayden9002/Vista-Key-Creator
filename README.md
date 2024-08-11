@@ -10,3 +10,5 @@ If it still loads and you can get to the product key screen, good!<br>
 Try a fake key (22222-22222-22222-22222-22222) if it says "no". good<br>
 Try a real key, if it takes you to the lisense page that means it works!.<br>
 After publish you findings to the gitpage!
+
+(iso is 32 bit)
