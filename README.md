@@ -12,3 +12,9 @@ Try a real key, if it takes you to the lisense page that means it works!.<br>
 After publish you findings to the gitpage!
 
 (iso is 32 bit)
+the ISOs are orginazed by number 
+
+0 is normal staright ISO 
+each next one is something removed
+1, one thing is removed
+2, has number one thing remmoved and something else
