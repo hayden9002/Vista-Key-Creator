@@ -10,7 +10,7 @@ All i need is with your help, to find out how the DVD can check the keys<br>
 
 Thats it!
 
-Download the ISO and look in it, i belive the "install.wim" holds the answers!
+Download the ISO and look in it, i belive the "boot.wim" holds the answers!
 
 Good luck! :) <br>
 
