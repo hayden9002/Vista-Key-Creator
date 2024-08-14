@@ -1,0 +1,11 @@
+needed!
+
+
+ in sources boot.wim
+
+in root,
+bootmgr
+system volume info
+sources
+efi (with stuff) 
+boot (with stuff)
